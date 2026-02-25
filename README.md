@@ -50,7 +50,7 @@ A web security application designed to detect SQL Injection and Cross-Site Scrip
 - Secure database to store user credentials and scan history.
 - Controller-based architecture for modular scanning operations.
 
-**Tech Stack:** Node.js / PHP, MySQL, HTML, CSS, JavaScript
+**Tech Stack:** Node.js, MySQL, HTML, CSS, JavaScript, Python
 
 ---
 
@@ -84,3 +84,4 @@ Feel free to connect — I’m always open to collaboration and new opportunitie
 ## Help Palestine 🇵🇸
 
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
+
