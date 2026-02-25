@@ -9,7 +9,7 @@
   </a>
 </p>
 
-I'm a motivated Computer Engineering student at Nile University and a passionate Full-Stack Web Developer. I enjoy building secure, scalable, and user-focused web applications, and I’m always eager to learn new technologies and improve my development skills.
+I'm a motivated Computer Engineer with a passion for Full-Stack Web Developement. I enjoy building secure, scalable, and user-focused web applications, and I’m always eager to learn new technologies and improve my development skills!
 
 ---
 
@@ -35,28 +35,6 @@ I'm a motivated Computer Engineering student at Nile University and a passionate
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
-
----
-
-### 💼 Experience
-
-#### Full-Stack Web Developer Intern — Aromatic Herbs and Spices  
-**Aug 2025 – Sep 2025**
-- Built interactive web pages following company UI/UX standards.
-- Designed and implemented relational databases using MySQL.
-- Developed backend logic using PHP to handle full CRUD operations.
-
-#### Telecom Egypt Training — Telecom Egypt (WE)  
-**July 2024 – Aug 2024**
-- Worked with Nokia and Huawei optical equipment for network operations.
-- Conducted fiber diagnostics using OTDR and performed fusion splicing.
-- Gained strong understanding of network topologies and optical connectors.
-
-#### Junior Teaching Assistant — Nile University  
-**Fall 2022 – Spring 2023**
-- Assisted 300+ students in engineering drawing.
-- Prepared tutorial materials and supported lab sessions.
-- Developed strong communication and classroom management skills.
 
 ---
 
@@ -90,15 +68,6 @@ A full-stack web application for managing cinema operations.
 
 ---
 
-### 🎓 Education
-
-**Bachelor’s in Computer Engineering**  
-Nile University (2021 – 2026)  
-GPA: 3.18  
-
-IGCSE – AlHossam British Schools (97.5%)
-
----
 
 ### 🌱 Currently Improving
 
@@ -108,4 +77,10 @@ IGCSE – AlHossam British Schools (97.5%)
 
 ---
 
+
 Feel free to connect — I’m always open to collaboration and new opportunities 🚀
+
+
+## Help Palestine 🇵🇸
+
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
